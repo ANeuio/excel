@@ -1,0 +1,19 @@
+{
+  "name": "excel-javascript",
+  "version": "1.0.0",
+  "description": "Excel JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANeuio/excel.git"
+  },
+  "author": "Alex Zakharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANeuio/excel/issues"
+  },
+  "homepage": "https://github.com/ANeuio/excel#readme"
+}
